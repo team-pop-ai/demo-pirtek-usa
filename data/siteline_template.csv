@@ -1,0 +1,4 @@
+Date,Vendor,Amount,GL_Code,Category,Description,Tax_Amount,Receipt_Number
+2024-01-15,Valvoline Inc,89.50,6100,Vehicle Maintenance,Oil change - Truck 442,7.61,VLV-2024-001
+2024-01-16,Home Depot,245.99,5200,Parts/Inventory,Hydraulic fittings and hoses,20.91,HD-2024-002
+2024-01-18,Shell Oil,67.84,6200,Fuel,Diesel fuel - Service route,0.00,SHL-2024-003
